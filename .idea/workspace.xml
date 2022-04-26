@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="3400eeb4-4f3f-4e32-8015-0eea158621f1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Backend Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Backend Java/imonsh/Screen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Backend Java/imonsh/Screen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Backend Java/practicaComic/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Backend Java/practicaComic/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/imonsh/Screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/imonsh/Screen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practicaComic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practicaComic/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +49,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/imonsh.jar" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="TEXT" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/jlayer-1.0.1.jar" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -57,7 +63,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practicaMultiverse.Main" />
+      <option name="MAIN_CLASS_NAME" value="practicaComic.Main" />
       <module name="Backend Java" />
       <extension name="coverage">
         <pattern>
@@ -88,6 +94,7 @@
       <workItem from="1650544249151" duration="6585000" />
       <workItem from="1650827415160" duration="10753000" />
       <workItem from="1650839253698" duration="18000" />
+      <workItem from="1650907390235" duration="6688000" />
     </task>
     <servers />
   </component>

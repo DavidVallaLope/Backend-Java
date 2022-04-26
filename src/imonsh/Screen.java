@@ -60,6 +60,20 @@ public class Screen extends JFrame{
         StyleConstants.setFontFamily(this.attr, font);
     }
 
+    public void showImage(String f) {
+        try {
+            StyleConstants.setIcon(this.attr, new ImageIcon(f));
+            this.styledDoc.insertString(this.styledDoc.getLength(), " ", this.attr);
+            this.attr = new SimpleAttributeSet();
+            StyleConstants.setForeground(this.attr, Color.BLUE);
+            StyleConstants.setFontSize(this.attr, 20);
+            StyleConstants.setFontFamily(this.attr, "Times New Roman");
+        } catch (BadLocationException var3) {
+            System.err.println(var3);
+        }
+
+    }
+
     public void showImage(String f, int width, int height) {
         try {
             ImageIcon imageIcon = new ImageIcon(f);
